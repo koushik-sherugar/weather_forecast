@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weather_forecast/static/css/main.327f325e.chunk.css",
+    "main.js": "/weather_forecast/static/js/main.ccad7a66.chunk.js",
+    "main.js.map": "/weather_forecast/static/js/main.ccad7a66.chunk.js.map",
+    "runtime-main.js": "/weather_forecast/static/js/runtime-main.264e5273.js",
+    "runtime-main.js.map": "/weather_forecast/static/js/runtime-main.264e5273.js.map",
+    "static/js/2.8c73d327.chunk.js": "/weather_forecast/static/js/2.8c73d327.chunk.js",
+    "static/js/2.8c73d327.chunk.js.map": "/weather_forecast/static/js/2.8c73d327.chunk.js.map",
+    "index.html": "/weather_forecast/index.html",
+    "static/css/main.327f325e.chunk.css.map": "/weather_forecast/static/css/main.327f325e.chunk.css.map",
+    "static/js/2.8c73d327.chunk.js.LICENSE.txt": "/weather_forecast/static/js/2.8c73d327.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.264e5273.js",
+    "static/js/2.8c73d327.chunk.js",
+    "static/css/main.327f325e.chunk.css",
+    "static/js/main.ccad7a66.chunk.js"
+  ]
+}
